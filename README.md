@@ -5,7 +5,7 @@
 
 ## Tools I use
 - Art: [Aseprite](https://www.aseprite.org/), [Inkscape](https://inkscape.org/), [Krita](https://krita.org/en/)
-- Engines/Libraries: [Unity engine](https://unity.com/), [raylib](https://www.raylib.com/)
+- Engines/Libraries: [Unity engine](https://unity.com/), [raylib](https://www.raylib.com/), [SDL](https://www.libsdl.org/), Making my own engine (C+, SDL)
 - OS: Arch linux, btw
 - Verison control: [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/)
 - Programing languages: [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [C++](https://cplusplus.com/), [Python](https://www.python.org/)
