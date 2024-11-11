@@ -1,4 +1,4 @@
-# Juniour game developer from Ukraine
+# Junior game developer from Ukraine
 
 ## My projects
 [erth `n craft on itch.io](https://erth-n-craft.itch.io/)
