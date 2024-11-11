@@ -1,4 +1,4 @@
-# Indie game developer from Ukraine
+# Juniour game developer from Ukraine
 
 ## My projects
 [erth `n craft on itch.io](https://erth-n-craft.itch.io/)
